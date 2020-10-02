@@ -13,13 +13,10 @@ public class Task4 {
 
          */
 
-        Scanner scanner = new Scanner(System.in);
-        int i = scanner.nextInt();                      // В эту переменную попадет число, которое мы введем в консоле
+        int i = new Scanner(System.in).nextInt();                      // В эту переменную попадет число, которое мы введем в консоле
 
 
-
-        // Тут должен быть ваш код.
-
+        // TODO: тут должен быть ваш код
 
 
     }
